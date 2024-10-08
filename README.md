@@ -82,6 +82,7 @@ Os seguintes modelos foram testados:
 
 Os dados utilizados neste projeto podem ser encontrados no seguinte [repositório do Kaggle](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data).
 
+O relatório do projeto pode ser encontrado no seguinte link: [Relatório PowerBI](https://app.powerbi.com/view?r=eyJrIjoiMDJhYzFhZTQtNGJmYi00YzU3LWI1N2YtYWE1NzAyNTliYWY0IiwidCI6ImVlZTdjZWEwLTZjYjUtNDc5MS05ZGMyLTFjYmQ2ZjYzNzVjNyJ9).
 - **Features**:
   - Loja: Identificador da loja
   - Departamento: Identificador do departamento
