@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/80826da1-875f-4ef7-95e7-7d4bd1785e45)
 # Previsão de Vendas no Walmart
 
 Este repositório contém a análise e modelagem preditiva de vendas da rede Walmart utilizando técnicas de aprendizado de máquina, com o objetivo de prever as vendas por departamento para diferentes lojas, considerando variáveis como temperatura, promoções e feriados.
